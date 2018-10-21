@@ -11,8 +11,7 @@ LeetCode
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | javascript | Easy |
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | javascript | Easy |
 |27|[Remove Element](https://leetcode.com/problems/remove-element/description/) | javascript | Easy |
-
-
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | javascript | Easy |
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | javascript | Easy |
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)| javascript | Easy |
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/description/)|javascript | Easy |
