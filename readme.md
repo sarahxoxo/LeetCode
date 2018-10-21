@@ -9,7 +9,10 @@ LeetCode
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | javascript | Easy |
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | javascript | Easy |
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | javascript | Easy |
-|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | javascript | Easy |
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | javascript | Easy |
+|27|[Remove Element](https://leetcode.com/problems/remove-element/description/) | javascript | Easy |
+
+
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | javascript | Easy |
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)| javascript | Easy |
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/description/)|javascript | Easy |
