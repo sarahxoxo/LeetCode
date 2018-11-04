@@ -14,6 +14,7 @@ LeetCode
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | javascript | Easy |
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | javascript | Easy |
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/) | javascript | Easy |
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | javascript | Easy |
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | javascript | Easy |
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)| javascript | Easy |
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/description/)|javascript | Easy |
